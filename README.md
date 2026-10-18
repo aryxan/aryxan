@@ -1,199 +1,153 @@
 # Aryan Gupta
 
-### Cybersecurity Enthusiast · Ethical Hacking · AI × Security
+### Offensive Security · Ethical Hacking · Computer Networks
 
 <p align="left">
-  <a href="https://aryangupta2311.me">
-    <img src="https://img.shields.io/badge/Portfolio-aryangupta2311.me-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  <a href="https://tryhackme.com/p/aryangupta1608">
+    <img src="https://img.shields.io/badge/TryHackMe-aryangupta1608-C11111?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="https://github.com/aryxan">
-    <img src="https://img.shields.io/badge/GitHub-aryxan-111111?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://profile.hackthebox.com/profile/019f1487-6d5a-71e6-8273-e1b6cee3fc9f">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+  <a href="https://leetcode.com/u/aryxan/">
+    <img src="https://img.shields.io/badge/LeetCode-aryxan-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://linkedin.com/in/aryangupta2311/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aryangupta2311.me">
+    <img src="https://img.shields.io/badge/Portfolio-aryangupta2311.me-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/aryxan">
+    <img src="https://img.shields.io/badge/GitHub-aryxan-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## About
+## 🛡️ About Me
 
-I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology** with a strong interest in cybersecurity, ethical hacking, and artificial intelligence.
+I am a Computer Engineering student at **Thapar Institute of Engineering and Technology** dedicated to **Cybersecurity, Penetration Testing, and Network Architecture**. 
 
-My work focuses on understanding how systems operate, identifying security challenges, and building practical technology solutions. I enjoy working across cybersecurity, networking, software development, and AI/ML.
+My core focus lies in understanding how complex network protocols and operating systems function under the hood, probing attack surfaces to uncover vulnerabilities, and designing tamper-resistant systems. I actively sharpen my tactical offensive and defensive skills on **TryHackMe**, **Hack The Box**, and in competitive cybersecurity hackathons.
 
-Currently exploring:
-
-- Offensive Security & Penetration Testing
-- Network & Web Security
-- AI applications in Cybersecurity
-- Security Architecture
-- Vulnerability Assessment
-- Security Research
+- 🎯 **Primary Focus:** Offensive Security, Web & Network Penetration Testing, and Vulnerability Assessment.
+- 🌐 **Deep Dive:** Network Protocols (TCP/IP stack, DNS, routing, packet dissection) and System Hardening.
+- ⚡ **Practical Mindset:** Security scripting, threat modeling, and defense-in-depth principles.
 
 ---
 
-## Technical Skills
+## 🧰 Technical Arsenal
 
-### Cybersecurity
-
+### Cybersecurity & Penetration Testing
 <p>
   <img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Network%20Security-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Authentication-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Security%20(OWASP)-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Authentication%20&%20MFA-111111?style=flat-square" />
 </p>
 
-### Tools & Testing Environments
-
+### Tools & Lab Environments
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=flat-square&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
 </p>
 
-### Development & Languages
+### Computer Networks & Protocols
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP%20Suite-24292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Subnetting%20&%20Routing-24292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS%20%7C%20DHCP%20%7C%20ARP-24292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewalls%20&%20ACLs-24292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Packet%20Inspection-24292E?style=flat-square" />
+</p>
 
+### Programming & Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_CLI-111111?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-### Full-Stack & AI/ML
+---
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-111111?style=flat-square" />
-</p>
+## 🏆 Key Milestones & Competitions
+
+- **National Finalist & Team Lead — India Innovates 2026**  
+  *Bharat Mandapam, New Delhi (Team ErrorSeIshq)*  
+  Led architecture and security implementation for **JalRakshak**, presenting the resilient incident coordination platform to national evaluators.
+
+- **Solution Track Competitor — IIT Kanpur (2026)**  
+  Cleared Rounds 1 & 2 in tactical cybersecurity evaluations spanning network packet analysis, vulnerability identification, and security tool operations.
+
+- **Hackathon Competitor & Creator — University of Derby (2025)**  
+  Designed and presented **HWSS (Holographic Webpage Security System)** to an international panel, focusing on anti-phishing defense mechanisms and secure MFA workflows.
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### JalRakshak
-#### AI Flood Monitoring & Prediction System
-
-An AI-powered real-time disaster-response platform combining citizen reporting, live mapping, emergency coordination, and security-focused architecture.
-
-**Highlights**
-
-- Real-time flood reporting and incident mapping
-- GPS-based reporting and tracking
-- Missing-person registry and volunteer coordination
-- Firebase Authentication with role-based access
-- Firestore security rules based on least-privilege access
-- Input sanitisation and security controls
-- Threat modelling for spoofing, data tampering, and DoS scenarios
-
-**Technology**
-
-`React` `Firebase Auth` `Firestore` `Leaflet` `AI/ML` `Threat Modeling`
-
-> National finalist project presented at **Bharat Mandapam, New Delhi — India Innovates 2026**
-
-**[Live Demo](https://jalrakshakfinal.vercel.app/)**
+### JalRakshak — Disaster Response & Emergency Coordination Platform
+*A real-time disaster-response system engineered with a strict focus on secure communications, input sanitization, and access control.*
+- **Role-Based Access Control:** Configured granular authorization models using Firebase Auth and least-privilege security rules.
+- **Threat Modeling & Mitigation:** Defended against request spoofing, replay attacks, and parameter tampering in emergency reporting feeds.
+- **National Recognition:** Presented at **Bharat Mandapam, New Delhi (India Innovates 2026)**.
+- **Tech:** `Firebase Auth` `Firestore Security Rules` `Threat Modeling` `React` `Leaflet` · [Live Demo](https://jalrakshakfinal.vercel.app/)
 
 ---
 
-### EduPlanr
-#### Smart Student Scheduling Platform
-
-An independently designed and launched student productivity platform focused on adaptive scheduling, AI-driven study assistance, and focused learning.
-
-**Highlights**
-
-- Smart academic scheduling
-- AI-driven study suggestions
-- Adaptive scheduling engine
-- Examination and milestone tracking
-- Distraction-free focus mode
-- Live deployment
-
-**Technology**
-
-`React` `AI Suggestions` `Adaptive Engine` `Tailwind CSS` `Client State`
-
-**[Visit EduPlanr](https://eduplanr.in)**
+### HWSS — Holographic Webpage Security System
+*Anti-phishing authentication framework designed to mitigate credential harvesting and impersonation attacks.*
+- Formulated phishing-resistant authentication concepts and visual validation tokens for user login sessions.
+- Tested against common web spoofing tactics and credential theft workflows.
+- Presented at the **University of Derby Cybersecurity Hackathon (2025)**.
 
 ---
 
-## Experience & Milestones
-
-### 2026 · India Innovates — Bharat Mandapam, New Delhi
-
-**Team Leader & National Finalist — ErrorSeIshq**
-
-Led development and security work for JalRakshak and presented the full-stack disaster-response system at Bharat Mandapam, New Delhi.
-
-`Project Leadership` `Full-Stack Architecture` `Security` `Disaster-Response IoT`
+### EduPlanr — Student Academic Workflow & Planning System
+*A responsive web platform designed with robust client-side architecture and clean state management.*
+- Optimized responsive interface with structured client-side scheduling routines and zero third-party tracking overhead.
+- **Tech:** `React` `Tailwind CSS` `State Management` · [Visit EduPlanr](https://eduplanr.in)
 
 ---
 
-### 2026 · Solution Track — IIT Kanpur
+## 📜 Certifications
 
-**Solution Track Competitor**
-
-Cleared Rounds 1 and 2 of cybersecurity-focused evaluations covering coding proficiency, security tools, network packet analysis, vulnerability assessment, and tactical cybersecurity challenges.
-
-`Offensive Security` `Network Auditing` `Vulnerability Assessment`
-
----
-
-### 2025 · Cybersecurity Hackathon — University of Derby
-
-**Hackathon Competitor & Creator**
-
-Presented the **HWSS — Holographic Webpage Security System** framework to an international cybersecurity panel, focusing on phishing-resistant authentication and security testing.
-
-`Phishing Prevention` `MFA Design` `Security Testing`
+- **Google Cybersecurity Professional Certificate** — Coursera *(In Progress)*
+- **Cybersecurity Essentials** — Cisco *(Completed)*
+- **Introduction to Cybersecurity** — Cisco *(Completed)*
+- **Introduction to Cisco Packet Tracer** — Cisco *(Completed)*
+- **Exploring Networking with Cisco Packet Tracer** — Cisco *(Completed)*
 
 ---
 
-## Certifications
-
-- **Google Cybersecurity Professional Certificate** — Coursera · *In Progress*
-- **Introduction to Cybersecurity** — Cisco · *Completed*
-- **Cybersecurity Essentials** — Cisco · *Completed*
-- **Introduction to Cisco Packet Tracer** — Cisco · *Completed*
-- **Exploring Networking with Cisco Packet Tracer** — Cisco · *Completed*
-
----
-
-## Areas of Interest
-
-`Cybersecurity` · `Ethical Hacking` · `Penetration Testing`  
-`Network Security` · `Web Security` · `AI × Cybersecurity`  
-`Security Research` · `Bug Bounty` · `Security Automation`
-
----
-
-## Currently Learning
+## 🔭 Currently Mastering
 
 ```text
-CYBERSECURITY
-├── Offensive Security
-├── Penetration Testing
-├── Network Security
-├── Web Security
-└── Security Research
+OFFENSIVE SECURITY & ETHICAL HACKING
+├── Web Application Penetration Testing (OWASP Top 10)
+├── Linux & Windows Privilege Escalation
+├── Network Vulnerability Assessment & Exploitation
+└── Active Directory Basics & Attack Vectors
 
-AI × SECURITY
-├── AI-assisted Security
-├── Intelligent Threat Detection
-└── Security Automation
+COMPUTER NETWORKS & PROTOCOLS
+├── Deep Packet Inspection & Traffic Analysis (Wireshark)
+├── Network Segmentation, Subnetting & Routing Tables
+└── Secure Tunneling, Firewalls & VPN Architectures
 
-ENGINEERING
-├── Systems & Networking
-├── Full-Stack Development
-└── Practical Security Architecture
+SECURITY AUTOMATION
+├── Reconnaissance & Scanner Automation (Python)
+└── Shell Scripting for Penetration Testing (Bash)
+```
